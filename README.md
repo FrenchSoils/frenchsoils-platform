@@ -1,4 +1,4 @@
 # FrenchSoils Platform
 
-This is the code for my wine-sourcing platform.  
-It uses Next.js & Firebase Auth and is deployed on Vercel.
+Plateforme de sourcing interactif de vins pour professionnels.  
+Authentification Firebase + Next.js, déployé sur Vercel.
