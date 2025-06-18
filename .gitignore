@@ -1,0 +1,6 @@
+# Dossiers à ignorer
+node_modules/
+.next/
+
+# Fichiers à ignorer
+npm-debug.log*
